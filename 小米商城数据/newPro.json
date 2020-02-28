@@ -1,0 +1,1997 @@
+[
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b54738f4dce4588f9bd29a5dadf76030.png",
+        "category_name": "手机",
+        "product_name": "小米10 Pro",
+        "product_i": "10000213",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/acf2e521e29e5afabf6d493203b31f27.png",
+        "category_name": "手机",
+        "product_name": "小米10",
+        "product_i": "10000214",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/efd0aa03675839c8f20e8c38de8229c1.png",
+        "category_name": "手机",
+        "product_name": "Redmi K30 4G",
+        "product_i": "10000203",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f59489c399bb418dfe519b54c89c327d.png",
+        "category_name": "手机",
+        "product_name": "Redmi K30 5G",
+        "product_i": "10000204",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/15ee8b3b156837eecc9ae9660e1b869b.png",
+        "category_name": "手机",
+        "product_name": "小米CC9 Pro",
+        "product_i": "10000198",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/266ad6dd5146deaf3ae3602a89e7a217.png",
+        "category_name": "手机",
+        "product_name": "小米MIX Alpha",
+        "product_i": "10889",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ea816771c7470bec72a893dd0bfccee9.png",
+        "category_name": "智能",
+        "product_name": "手表Color",
+        "product_i": "11449",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/25df4ca88e5c65d76d63d530fe727965.png",
+        "category_name": "智能",
+        "product_name": "无线充蓝牙音箱",
+        "product_i": "11570",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8070925c6ba4d476392499454b973ff8.png",
+        "category_name": "智能",
+        "product_name": "移动电源3 10000mAh超级闪充版",
+        "product_i": "11569",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/dfbe41b342875d08208c3e39aaca8d95.png",
+        "category_name": "智能",
+        "product_name": "米家电子体温计",
+        "product_i": "11534",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/efe34d11c3b15ef34d6e3c7154d4ad28.png",
+        "category_name": "智能",
+        "product_name": "小米AIoT路由器AX3600",
+        "product_i": "11588",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ce7aaeec82e51a44790959295183f669.png",
+        "category_name": "智能",
+        "product_name": "GaN充电器Type-C 65W",
+        "product_i": "11543",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a37e8500d9dc8d9de1a493eb891cdfef.png",
+        "category_name": "家电",
+        "product_name": "小米电视5 55英寸",
+        "product_i": "11192",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0a7e5f40d33c6260ffe5a5242bc2ec08.png",
+        "category_name": "家电",
+        "product_name": "Redmi电视 70英寸",
+        "product_i": "10650",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d0ab902e6ee41d94a6ad9eea50292055.png",
+        "category_name": "家电",
+        "product_name": "电视Pro 55英寸\t",
+        "product_i": "10767",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ad2acec36942b97ef38de7ea4fd82bee.png",
+        "category_name": "家电",
+        "product_name": "空调A（大一匹）",
+        "product_i": "11527",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/41849f35acdded9e5dc8bedf384f9200.png",
+        "category_name": "家电",
+        "product_name": "空调A（1.5匹）",
+        "product_i": "11526",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3cf4b7d54b43848dcb5e6aa5590e91ac.jpg",
+        "category_name": "家电",
+        "product_name": "洗烘一体机1A",
+        "product_i": "9960",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3caaaaaa61b380b643d2bbac5f163819.png",
+        "category_name": "电脑",
+        "product_name": "RedmiBook14",
+        "product_i": "10000193",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/71c5e84be42a4581c67bd2fe5d4b8ffb.png",
+        "category_name": "电脑",
+        "product_name": "RedmiBook 13",
+        "product_i": "10000205",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e4e4468a3042a141668132135e8e4e80.png",
+        "category_name": "电脑",
+        "product_name": "小米显示器",
+        "product_i": "10000192",
+        "rid": 653
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6a0da3fe676a1bf3e02698a70e68c476.png",
+        "category_name": "众筹好物",
+        "product_name": "温湿度计",
+        "product_i": "11190",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a27cccc02ebc33e76ecf71b49a3e7d3a.png",
+        "category_name": "众筹好物",
+        "product_name": "液晶小黑板",
+        "product_i": "10550",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/79283f78338810fa1df2954ed8c040ae.png",
+        "category_name": "众筹好物",
+        "product_name": "电饭煲",
+        "product_i": "11326",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4fe6a2404ca47b2df1f82c3d2bd04feb.png",
+        "category_name": "众筹好物",
+        "product_name": "毛球修剪器",
+        "product_i": "10974",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/19d97ba1fcd8aaae4a510bb1dd42a997.png",
+        "category_name": "众筹好物",
+        "product_name": "电磁炉",
+        "product_i": "11087",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/975c299fdfb726b2233d12ecf94d10e9.png",
+        "category_name": "众筹好物",
+        "product_name": "米家夜灯2",
+        "product_i": "10596",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c88201c0d878a8168fd3c8de3bc26c96.png",
+        "category_name": "众筹好物",
+        "product_name": "电动牙刷T100",
+        "product_i": "10806",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/82f52269374f5625cc589c959d19baa7.png",
+        "category_name": "众筹好物",
+        "product_name": "魔方转换器",
+        "product_i": "10817",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ad2cc5cb0bc09a009b5d973be5add44d.png",
+        "category_name": "众筹好物",
+        "product_name": "智能魔方",
+        "product_i": "11051",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b1912e573ddb259e42da19347fc14737.png",
+        "category_name": "众筹好物",
+        "product_name": "口袋照片打印机",
+        "product_i": "10722",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/41cc8808268cc24668de53e7a654d5ef.png",
+        "category_name": "众筹好物",
+        "product_name": "智能猫眼",
+        "product_i": "11381",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2242dabbb8191cffd7dd08eae344af6d.png",
+        "category_name": "众筹好物",
+        "product_name": "负离子吹风机",
+        "product_i": "10671",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/509f11abbb8feadf3d947eb4d6c20034.png",
+        "category_name": "众筹好物",
+        "product_name": "立式无线充电器20W",
+        "product_i": "11226",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/db27165b5766c9bfc21f792a21bad851.png",
+        "category_name": "众筹好物",
+        "product_name": "无线除螨仪",
+        "product_i": "10477",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/56c2affeed44742020dfcbbd07a0ad4e.png",
+        "category_name": "众筹好物",
+        "product_name": "降噪蓝牙耳机",
+        "product_i": "10316",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5b75694b91fe4964d8888a046b83ed5f.png",
+        "category_name": "众筹好物",
+        "product_name": "读写台灯",
+        "product_i": "10332",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/25287019d20f056e704b6af96bc5f333.png",
+        "category_name": "众筹好物",
+        "product_name": "机械表",
+        "product_i": "10308",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/bc9b520b3eca04e73c2d0080d171a5b1.png",
+        "category_name": "众筹好物",
+        "product_name": "电动螺丝刀",
+        "product_i": "10252",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e32735617c9c42ee03508cb34ae0c29e.png",
+        "category_name": "众筹好物",
+        "product_name": "锋味电磁炉套装",
+        "product_i": "10012",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5e4a04963eee3640a10ca1e00c8870c0.png",
+        "category_name": "众筹好物",
+        "product_name": "智能积木越野车",
+        "product_i": "9929",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8e7d3b98cd03416ccee0ec11bd4042d3.png",
+        "category_name": "众筹好物",
+        "product_name": "自动泡沫洁面机",
+        "product_i": "9773",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cc5326a42d03275ad2f5278863ae4a74.png",
+        "category_name": "众筹好物",
+        "product_name": "驱蚊器3个装",
+        "product_i": "9723",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6c05926082f9b6d6d479c694753f1791.png",
+        "category_name": "众筹好物",
+        "product_name": "净水器 600G\t",
+        "product_i": "9614",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e9a088eb98acaa7c216e7c873f0a7ab6.png",
+        "category_name": "众筹好物",
+        "product_name": "无线吸尘器",
+        "product_i": "9526",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0c76562305a3286672c064694d289f71.png",
+        "category_name": "众筹好物",
+        "product_name": "投影仪青春版",
+        "product_i": "9132",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c47e3bd9a666749df70bfb616106758e.png",
+        "category_name": "众筹好物",
+        "product_name": "米家照片打印机",
+        "product_i": "9107",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1dd1956a3b665c0ba31e6334440344e4.png",
+        "category_name": "众筹好物",
+        "product_name": "米家小饭煲",
+        "product_i": "9109",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/516472cc707d05cb376df5519c9b81cc.png",
+        "category_name": "众筹好物",
+        "product_name": "米家智能门锁",
+        "product_i": "10000155",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d755e945b0855e8f817374497aed88c1.png",
+        "category_name": "众筹好物",
+        "product_name": "水离子吹风机",
+        "product_i": "9104",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b0735ed70a013929456e71a875d3f414.png",
+        "category_name": "众筹好物",
+        "product_name": "电纸书",
+        "product_i": "11299",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/56db44cd039a22c06e351dc01fc7fdba.png",
+        "category_name": "众筹好物",
+        "product_name": "米家新风机\t",
+        "product_i": "9017",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/dd3c51c74e0aa6a130638f1d9bff1c5e.png",
+        "category_name": "众筹好物",
+        "product_name": "自动洗手机",
+        "product_i": "8881",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3473e98f3651ab206bfb41a07aebf376.png",
+        "category_name": "众筹好物",
+        "product_name": "灯泡",
+        "product_i": "10700",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/db4a28d785c73fcd8eb0705d55ca305a.png",
+        "category_name": "众筹好物",
+        "product_name": "筒灯",
+        "product_i": "7918",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2bd5d543a296813d270b569423ed9134.png",
+        "category_name": "众筹好物",
+        "product_name": "香氛机",
+        "product_i": "11115",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c62889f8cf460d6b8f40ad2dbae141e6.png",
+        "category_name": "众筹好物",
+        "product_name": "电动冲牙器",
+        "product_i": "11416",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/232488b0ef1df8195783c52e2323f57c.png",
+        "category_name": "众筹好物",
+        "product_name": "便携榨汁机",
+        "product_i": "10382",
+        "rid": 940
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b54738f4dce4588f9bd29a5dadf76030.png",
+        "category_name": "小米数字系列",
+        "product_name": "小米10 Pro",
+        "product_i": "10000213",
+        "rid": 1242
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/acf2e521e29e5afabf6d493203b31f27.png",
+        "category_name": "小米数字系列",
+        "product_name": "小米10",
+        "product_i": "10000214",
+        "rid": 1242
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5b0d18a3033b43c0645b78dfc9d759a9.png",
+        "category_name": "小米数字系列",
+        "product_name": "小米9 Pro 5G",
+        "product_i": "10000188",
+        "rid": 1242
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/15ee8b3b156837eecc9ae9660e1b869b.png",
+        "category_name": "小米CC系列",
+        "product_name": "小米CC9 Pro",
+        "product_i": "10000198",
+        "rid": 1242
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8def00234637f733dfb59d2be3bb1abd.png",
+        "category_name": "小米CC系列",
+        "product_name": "小米CC9",
+        "product_i": "10000163",
+        "rid": 1242
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f6c2fbc0a96d51f5e713fd3daae8f73b.png",
+        "category_name": "小米CC系列",
+        "product_name": "小米CC9e",
+        "product_i": "10000164",
+        "rid": 1242
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ff6dd80e3fc674ec70d7361f5409c5dc.png",
+        "category_name": "小米CC系列",
+        "product_name": "小米CC9 美图版",
+        "product_i": "10140",
+        "rid": 1242
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/266ad6dd5146deaf3ae3602a89e7a217.png",
+        "category_name": "小米MIX系列",
+        "product_name": "小米MIX Alpha",
+        "product_i": "10889",
+        "rid": 1242
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/80da1d43af3f1c494f7165bf612adcad.png",
+        "category_name": "小米MIX系列",
+        "product_name": "小米MIX 3",
+        "product_i": "10000123",
+        "rid": 1242
+    },
+    {
+        "img_url": "https://i8.mifile.cn/b2c-mimall-media/2e24730eb6fb2963b9b59493a6e5a0c7.jpg",
+        "category_name": "小米平板",
+        "product_name": "小米平板",
+        "product_i": "10000108",
+        "rid": 1242
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a78e73027b202757a933083ddd6ffbe0.png",
+        "category_name": "Redmi红米 数字系列",
+        "product_name": "Redmi 8",
+        "product_i": "10000190",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/39ad29e9dce40a7afa494fe9e0cf9b0d.png",
+        "category_name": "Redmi红米 数字系列",
+        "product_name": "Redmi 8A",
+        "product_i": "10000191",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8d0ceb8b80da9e0ee31700451f17e984.png",
+        "category_name": "Redmi红米 数字系列",
+        "product_name": "Redmi 7A",
+        "product_i": "10000152",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/99022ce28f145ff5a521c848596295ec.gif",
+        "category_name": "Redmi红米 Note系列",
+        "product_name": "Redmi Note 8 Pro",
+        "product_i": "10000180",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/271b3bd052e735143ee7298f2d6d43fa.gif",
+        "category_name": "Redmi红米 Note系列",
+        "product_name": "Redmi Note 8",
+        "product_i": "10000181",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/efd0aa03675839c8f20e8c38de8229c1.png",
+        "category_name": "Redmi红米 K系列",
+        "product_name": "Redmi K30 4G",
+        "product_i": "10000203",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f59489c399bb418dfe519b54c89c327d.png",
+        "category_name": "Redmi红米 K系列",
+        "product_name": "Redmi K30 5G",
+        "product_i": "10000204",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0a7e5f40d33c6260ffe5a5242bc2ec08.png",
+        "category_name": "Redmi电视",
+        "product_name": "Redmi 电视70英寸",
+        "product_i": "10650",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2fc8bd29b06da5c9a5a03cbf56a13420.png",
+        "category_name": "Redmi电视",
+        "product_name": "Redmi 电视40英寸",
+        "product_i": "11135",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/58b6b7cd244f22d30c34eccf3196f38d.png",
+        "category_name": "Redmi洗衣机",
+        "product_name": "波轮洗衣机1A",
+        "product_i": "9509",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0157ab4a0bb49c830729b9ca068e5771.png",
+        "category_name": "Redmi洗衣机",
+        "product_name": "波轮洗衣机1S\t",
+        "product_i": "9959",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/71c5e84be42a4581c67bd2fe5d4b8ffb.png",
+        "category_name": "RedmiBook",
+        "product_name": "RedmiBook 13",
+        "product_i": "10000205",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/680bb5c805d29e9ef2f968866124c288.png",
+        "category_name": "RedmiBook",
+        "product_name": "RedmiBook 14",
+        "product_i": "10000170",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cd7f38b4bef264fc34969cbe620bf42d.png",
+        "category_name": "Redmi配件",
+        "product_name": "真无线蓝牙耳机",
+        "product_i": "9510",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/dd0a0140e6156ddc464545c77d8c0564.png",
+        "category_name": "Redmi配件",
+        "product_name": "Redmi充电宝",
+        "product_i": "10000173",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e4eca203e55c2a1de43da066c8ea42fb.png",
+        "category_name": "Redmi配件",
+        "product_name": "Redmi路由器AC2100",
+        "product_i": "11373",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7776e7bdcfc5be4867ecbb906d8122f4.png",
+        "category_name": "Redmi配件",
+        "product_name": "Redmi小爱音箱 Play",
+        "product_i": "11369",
+        "rid": 1243
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e6c8a112abab1c03285aa915d731f6c3.png",
+        "category_name": "黑鲨游戏手机",
+        "product_name": "黑鲨游戏手机2 Pro",
+        "product_i": "10000175",
+        "rid": 1251
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/88457eba19868c63b428642603e3bde3.png",
+        "category_name": "黑鲨手机配件",
+        "product_name": "冰封散热背夹",
+        "product_i": "11575",
+        "rid": 1251
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d8bcee7d82c3139d450984f08fe001f7.png",
+        "category_name": "黑鲨手机配件",
+        "product_name": "黑鲨充电宝",
+        "product_i": "10641",
+        "rid": 1251
+    },
+    {
+        "img_url": "https://i8.mifile.cn/b2c-mimall-media/033cfa4ab48b9d776dcb69e730022561.png",
+        "category_name": "电视",
+        "product_name": "32-40英寸",
+        "product_i": "6222",
+        "rid": 458
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/866dc2dc582f090c42e9e3204b98710b.png",
+        "category_name": "电视",
+        "product_name": "43英寸",
+        "product_i": "8912",
+        "rid": 458
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/22501ec50470010114f63fc43e99e677.png",
+        "category_name": "电视",
+        "product_name": "49-50英寸",
+        "product_i": "7575",
+        "rid": 458
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e9a323fab756bbacece51d6ef0b45e24.png",
+        "category_name": "电视",
+        "product_name": "55-58英寸",
+        "product_i": "11192",
+        "rid": 458
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2ea4dd3a0a93e66cffa63dbb6aae34a1.png",
+        "category_name": "电视",
+        "product_name": "65-75英寸",
+        "product_i": "10650",
+        "rid": 458
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2eed897dd74e0f8e36187d8beb4d5ca6.png",
+        "category_name": "电视",
+        "product_name": "激光投影电视",
+        "product_i": "11345",
+        "rid": 458
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ebe1720ba557a94e6cfc36e7b110de1f.png",
+        "category_name": "盒子",
+        "product_name": "盒子4",
+        "product_i": "7599",
+        "rid": 458
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5f2720471d35be10c8ffa80909b99551.png",
+        "category_name": "盒子",
+        "product_name": "盒子4c",
+        "product_i": "7598",
+        "rid": 458
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/91a6128c0265f662069041083d6559bf.jpg",
+        "category_name": "盒子",
+        "product_name": "盒子4 SE套装版",
+        "product_i": "9233",
+        "rid": 458
+    },
+    {
+        "img_url": "https://i8.mifile.cn/b2c-mimall-media/665274982e2ce86c3fce921127e9dccd.jpg",
+        "category_name": "音箱",
+        "product_name": "小米电视音响",
+        "product_i": "7808",
+        "rid": 458
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/71c5e84be42a4581c67bd2fe5d4b8ffb.png",
+        "category_name": "电脑",
+        "product_name": "RedmiBook 13",
+        "product_i": "10000205",
+        "rid": 459
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/840f5ca973e34683d3f6cbba7e1b1691.png",
+        "category_name": "电脑",
+        "product_name": "RedmiBook 14",
+        "product_i": "10000170",
+        "rid": 459
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0b15efc342a60b6016c6c1092884f49d.png",
+        "category_name": "电脑",
+        "product_name": "Air 12.5\"",
+        "product_i": "10000145",
+        "rid": 459
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9a05e4ac5c3bdcb4e56ed9fcc79ed6d8.png",
+        "category_name": "电脑",
+        "product_name": "Air 13.3\"",
+        "product_i": "10000142",
+        "rid": 459
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4c62c263dd80e807c0e1b2f67c74454c.png",
+        "category_name": "电脑",
+        "product_name": "Pro 15.6\"",
+        "product_i": "10000144",
+        "rid": 459
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/88b69891922bc3fd6eaa8012be9f4ead.png",
+        "category_name": "电脑",
+        "product_name": "15.6\" ",
+        "product_i": "10000141",
+        "rid": 459
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ff54c201797d264884ba03c7bf777b2a.png",
+        "category_name": "电脑",
+        "product_name": "游戏本",
+        "product_i": "10000178",
+        "rid": 459
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/74f15a7f5fe1f248b1553a1bd674480c.png",
+        "category_name": "电脑配件",
+        "product_name": "键鼠套装",
+        "product_i": "11418",
+        "rid": 459
+    },
+    {
+        "img_url": "https://i8.mifile.cn/v1/a1/2ca61893-68b9-d0a0-5f85-bdc28e655a3e!200x200.jpg",
+        "category_name": "电脑配件",
+        "product_name": "鼠标",
+        "product_i": "4679",
+        "rid": 459
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/95a101367fbfa77d4bd88db896e58a7b.png",
+        "category_name": "电脑配件",
+        "product_name": "双肩包",
+        "product_i": "11036",
+        "rid": 459
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9f468d68482be77b70a2819e49615f96.png",
+        "category_name": "电脑配件",
+        "product_name": "存储",
+        "product_i": "9853",
+        "rid": 459
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1108c930cc68c0fc02070b33796966ab.png",
+        "category_name": "电脑配件",
+        "product_name": "电源适配器",
+        "product_i": "11540",
+        "rid": 459
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7a263616cc4bf261ed8725d819490dc4.png",
+        "category_name": "电脑配件",
+        "product_name": "内胆包",
+        "product_i": "7484",
+        "rid": 459
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e2991b9ba166f447eb6615cce86d2337.png",
+        "category_name": "小爱智能",
+        "product_name": "小爱音箱",
+        "product_i": "10744",
+        "rid": 1157
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fd4310cbae8fbdaba3649c68d4a7ae96.png",
+        "category_name": "小爱智能",
+        "product_name": "小爱音箱 Pro",
+        "product_i": "10745",
+        "rid": 1157
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f7627c0014e279da55829cee0b51672c.png",
+        "category_name": "小爱智能",
+        "product_name": "小爱老师",
+        "product_i": "9828",
+        "rid": 1157
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/da5c697534905a5ca9444984fc386feb.png",
+        "category_name": "小爱智能",
+        "product_name": "小爱音箱Play",
+        "product_i": "10015",
+        "rid": 1157
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/284988b6415cac78fd80dfaeef4a115f.png",
+        "category_name": "小爱智能",
+        "product_name": "小爱触屏音箱Pro 8",
+        "product_i": "11376",
+        "rid": 1157
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b8b7339fc507e41f04de9ea9ebdedd47.png",
+        "category_name": "小爱智能",
+        "product_name": "小米AI音箱",
+        "product_i": "6334",
+        "rid": 1157
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/83e6e1d81dbf65cfcddcbfcfcbfefc8d.png",
+        "category_name": "小爱智能",
+        "product_name": "小爱万能遥控版",
+        "product_i": "9536",
+        "rid": 1157
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/324a26ffc76926061938094f9fb88b11.png",
+        "category_name": "小爱智能",
+        "product_name": "小爱HD",
+        "product_i": "9151",
+        "rid": 1157
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7776e7bdcfc5be4867ecbb906d8122f4.png",
+        "category_name": "小爱智能",
+        "product_name": "Redmi 小爱音箱",
+        "product_i": "11369",
+        "rid": 1157
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/93928283c10854f64b3c91874c4577bb.png",
+        "category_name": "小爱智能",
+        "product_name": "小爱随身版",
+        "product_i": "9011",
+        "rid": 1157
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/562df53daeda6dc71914cefdc24d0a65.png",
+        "category_name": "小爱智能",
+        "product_name": "小爱触屏音箱",
+        "product_i": "9334",
+        "rid": 1157
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/acd788355bbd6fe6840f3543b90ad7a9.png",
+        "category_name": "小爱智能",
+        "product_name": "小爱智能闹钟",
+        "product_i": "8790",
+        "rid": 1157
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b1763f6fb0d8df37e77e120a8aefb676.png",
+        "category_name": "路由器",
+        "product_name": "AIoT路由器AX3600",
+        "product_i": "11588",
+        "rid": 462
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e4eca203e55c2a1de43da066c8ea42fb.png",
+        "category_name": "路由器",
+        "product_name": "Redmi AC2100",
+        "product_i": "11373",
+        "rid": 462
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/96368011161e6be0a0f1986f571ec11c.png",
+        "category_name": "路由器",
+        "product_name": "路由器AC2100",
+        "product_i": "10812",
+        "rid": 462
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/df4368f5353ea13dceb1ba07ea6f6f43.png",
+        "category_name": "路由器",
+        "product_name": "路由Mesh",
+        "product_i": "9452",
+        "rid": 462
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3ec439f3257f5f8ce0272602d63d9d1b.png",
+        "category_name": "路由器",
+        "product_name": "路由4A 千兆版",
+        "product_i": "9468",
+        "rid": 462
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a15fac758e72665eb13a722f75ec9777.png",
+        "category_name": "路由器",
+        "product_name": "路由4C 300M",
+        "product_i": "8645",
+        "rid": 462
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/994be1cc496a98e4001113eb30188ada.png",
+        "category_name": "路由器",
+        "product_name": "路由Pro 2600M",
+        "product_i": "5663",
+        "rid": 462
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e4905a4d01e22ea322fce7022b2544ae.png",
+        "category_name": "路由器",
+        "product_name": "路由4 全千兆",
+        "product_i": "8105",
+        "rid": 462
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a3ce2e5766e231d75fa15d7934b493fd.png",
+        "category_name": "路由器",
+        "product_name": "WiFi放大器",
+        "product_i": "6298",
+        "rid": 462
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a688c0c2cf5e7095de70b8a540455271.png",
+        "category_name": "路由器",
+        "product_name": "电力猫 套装",
+        "product_i": "5501",
+        "rid": 462
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/74b2e513be87c41145e932110d8ea38d.png",
+        "category_name": "生活电器",
+        "product_name": "空气净化器",
+        "product_i": "11108",
+        "rid": 460
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f8dfb1af5a437b65bcc9108b82411265.png",
+        "category_name": "生活电器",
+        "product_name": "扫地机",
+        "product_i": "9527",
+        "rid": 460
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/06d58bf1fed06fa5f433fc62f7302dd5.png",
+        "category_name": "生活电器",
+        "product_name": "吸尘器",
+        "product_i": "9526",
+        "rid": 460
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/56db44cd039a22c06e351dc01fc7fdba.png",
+        "category_name": "生活电器",
+        "product_name": "新风机",
+        "product_i": "9017",
+        "rid": 460
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/eb4112f1419174555a2e569ce3127d82.png",
+        "category_name": "生活电器",
+        "product_name": "电风扇",
+        "product_i": "8131",
+        "rid": 460
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c9c9cd6cec8e8116643790ae2564240a.png",
+        "category_name": "生活电器",
+        "product_name": "电暖器",
+        "product_i": "11086",
+        "rid": 460
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/226e59c7de1640e9321ed35576dda4a8.png",
+        "category_name": "生活电器",
+        "product_name": "擦地机",
+        "product_i": "9855",
+        "rid": 460
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6ebe8491e3253ac97a2ea0d165e8e1b2.png",
+        "category_name": "生活电器",
+        "product_name": "加湿器",
+        "product_i": "10321",
+        "rid": 460
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/25da364521359bde2ed4aeffb2fc2dfb.png",
+        "category_name": "生活电器",
+        "product_name": "除螨仪",
+        "product_i": "10477",
+        "rid": 460
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/daa6f98dda2b994a59d94e2d0f3e1e07.png",
+        "category_name": "生活电器",
+        "product_name": "修剪器",
+        "product_i": "10974",
+        "rid": 460
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9b2eea866a3df80d42db59bb57651f93.png",
+        "category_name": "生活电器",
+        "product_name": "甲醛监测仪",
+        "product_i": "11351",
+        "rid": 460
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2bcb1864e7bc020b6029b312ea8604cf.png",
+        "category_name": "厨房电器",
+        "product_name": "净水器",
+        "product_i": "11214",
+        "rid": 1047
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1dd1956a3b665c0ba31e6334440344e4.png",
+        "category_name": "厨房电器",
+        "product_name": "电饭煲",
+        "product_i": "9990",
+        "rid": 1047
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/027d129974f4d457e2021cce597feca4.png",
+        "category_name": "厨房电器",
+        "product_name": "烟机灶具",
+        "product_i": "9861",
+        "rid": 1047
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ad25d6e16b5f12bd013a3f81455df998.png",
+        "category_name": "厨房电器",
+        "product_name": "电磁炉",
+        "product_i": "7528",
+        "rid": 1047
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9bc543001efd3ef3894211d28fdc6ec1.png",
+        "category_name": "厨房电器",
+        "product_name": "电压力锅",
+        "product_i": "9270",
+        "rid": 1047
+    },
+    {
+        "img_url": "https://i8.mifile.cn/v1/a1/91cd8c44-11ca-79bd-429f-de882bdeaf3b.png",
+        "category_name": "厨房电器",
+        "product_name": "水壶",
+        "product_i": "11410",
+        "rid": 1047
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/34236bf97f1bd6c6251f0a23b814802f.png",
+        "category_name": "厨房电器",
+        "product_name": "微波炉",
+        "product_i": "10330",
+        "rid": 1047
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/066d8a4d7c5d623d32d2638d7515123f.png",
+        "category_name": "厨房电器",
+        "product_name": "电烤箱",
+        "product_i": "10948",
+        "rid": 1047
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1369612c12a5c0853203de50bf742726.png",
+        "category_name": "厨房电器",
+        "product_name": "料理机",
+        "product_i": "9408",
+        "rid": 1047
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1cf3c44a983afa1461d1fb2df2951d92.png",
+        "category_name": "智能穿戴",
+        "product_name": "智能手环",
+        "product_i": "9997",
+        "rid": 874
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e5d3ad7c9c04433ac37f539be54363e2.png",
+        "category_name": "智能穿戴",
+        "product_name": "智能手表",
+        "product_i": "11449",
+        "rid": 874
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6505670abd6d57f499b0ef442d014150.png",
+        "category_name": "智能穿戴",
+        "product_name": "VR眼镜",
+        "product_i": "8202",
+        "rid": 874
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/59e758f7b275da31d4729757e9f0764e.png",
+        "category_name": "智能穿戴",
+        "product_name": "头戴影院",
+        "product_i": "9871",
+        "rid": 874
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6f5067c6a067a921d39ecff175dc0e13.png",
+        "category_name": "智能穿戴",
+        "product_name": "石英表",
+        "product_i": "8625",
+        "rid": 874
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2f36a590e74adfb434d7e181ffe8e068.png",
+        "category_name": "智能穿戴",
+        "product_name": "儿童手表",
+        "product_i": "11479",
+        "rid": 874
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/61332d55403e2fbc83368833748ec65f.png",
+        "category_name": "智能家居",
+        "product_name": "智能门锁",
+        "product_i": "10345",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/41cc8808268cc24668de53e7a654d5ef.png",
+        "category_name": "智能家居",
+        "product_name": "智能猫眼",
+        "product_i": "11381",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/bf30a91bd364e1eba5c2761f8af716a1.png",
+        "category_name": "智能家居",
+        "product_name": "摄像机",
+        "product_i": "8835",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c47e3bd9a666749df70bfb616106758e.png",
+        "category_name": "智能家居",
+        "product_name": "打印机",
+        "product_i": "10780",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a6a145b85bb0df4c74d6ccb3c017875e.png",
+        "category_name": "智能家居",
+        "product_name": "智能门铃",
+        "product_i": "10713",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d5d783720dd5fc9fc953b704b2b959f9.png",
+        "category_name": "智能家居",
+        "product_name": "传感器",
+        "product_i": "9542",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/dc0892445167a179cbdd5576ee82a7de.png",
+        "category_name": "智能家居",
+        "product_name": "网关",
+        "product_i": "11383",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/681e4e3b2bf022225ee28b688122e78a.png",
+        "category_name": "智能家居",
+        "product_name": "智能插座",
+        "product_i": "11384",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cd852ec9e49d762a74aa8787e0e88b2a.png",
+        "category_name": "智能家居",
+        "product_name": "空调伴侣",
+        "product_i": "9726",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/42bdb05320261e143de7702084528783.png",
+        "category_name": "照明灯具",
+        "product_name": "台灯",
+        "product_i": "9743",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/1e79f48932ac1d4c8b20b559346f4df9.png",
+        "category_name": "照明灯具",
+        "product_name": "吸顶灯",
+        "product_i": "11042",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3d144673242dd22dbf3d63e0c577204a.jpg",
+        "category_name": "照明灯具",
+        "product_name": "床头灯",
+        "product_i": "8106",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/26c8175c9b6c5d48ea67264e4df44a69.png",
+        "category_name": "照明灯具",
+        "product_name": "夜灯",
+        "product_i": "9457",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/78603640ae5d996928c5064dfbd41c78.png",
+        "category_name": "照明灯具",
+        "product_name": "灯泡",
+        "product_i": "10700",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/dcd9b2d7836026036ed6e5f1de8cc49d.png",
+        "category_name": "照明灯具",
+        "product_name": "筒灯",
+        "product_i": "7918",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/681c05622b4861e0722ea9e637bc49da.png",
+        "category_name": "照明灯具",
+        "product_name": "开关",
+        "product_i": "11375",
+        "rid": 1053
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/04f4983b3fcd3919736aa52e5a14b746.png",
+        "category_name": "出行",
+        "product_name": "助力车",
+        "product_i": "11368",
+        "rid": 871
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/70e3ed45b79da86011f9eb54872d7017.png",
+        "category_name": "出行",
+        "product_name": "平衡车",
+        "product_i": "2774",
+        "rid": 871
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6ee3fde4ba21d615478eba47ee90aef4.png",
+        "category_name": "出行",
+        "product_name": "平衡轮",
+        "product_i": "10003",
+        "rid": 871
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f3106695ccf44ebc7bf4683b0d925dfc.png",
+        "category_name": "出行",
+        "product_name": "滑板车",
+        "product_i": "9285",
+        "rid": 871
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9953b19d3627e5900a807eb98761222b.png",
+        "category_name": "出行",
+        "product_name": "对讲机",
+        "product_i": "9550",
+        "rid": 871
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/05251342897b427a4aa5a955b990fd35.png",
+        "category_name": "出行",
+        "product_name": "充气宝",
+        "product_i": "9613",
+        "rid": 871
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/22452cf16e1a8c9667c9ca1053e64943.png",
+        "category_name": "车载",
+        "product_name": "智能后视镜",
+        "product_i": "7792",
+        "rid": 871
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fa7e618292f78aa8e927775dc4b6a43a.png",
+        "category_name": "车载",
+        "product_name": "智能记录仪",
+        "product_i": "8871",
+        "rid": 871
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1a656912d2e72ca713c1472f2cc5bd22.png",
+        "category_name": "车载",
+        "product_name": "车充",
+        "product_i": "9357",
+        "rid": 871
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/65dcccb851abe4190bb7b281002fec66.png",
+        "category_name": "车载",
+        "product_name": "停车牌",
+        "product_i": "11510",
+        "rid": 871
+    },
+    {
+        "img_url": "https://i8.mifile.cn/b2c-mimall-media/fbc14b5b4f7c06b53e1e70af21c5784a.png",
+        "category_name": "个护",
+        "product_name": "电动牙刷",
+        "product_i": "10535",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9b2f263e1fedc58fb3d1813dbcabc520.png",
+        "category_name": "个护",
+        "product_name": "剃须刀",
+        "product_i": "11520",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/157728643a4e8fe13b90e413ce1c9d78.png",
+        "category_name": "个护",
+        "product_name": "吹风机",
+        "product_i": "9104",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/21116e9ab708e9b5f14135242306ec52.jpg",
+        "category_name": "个护",
+        "product_name": "洗手机",
+        "product_i": "8881",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8e7d3b98cd03416ccee0ec11bd4042d3.png",
+        "category_name": "个护",
+        "product_name": "洁面机",
+        "product_i": "9773",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9a2cb7873bb435e9254dbc57039f0712.png",
+        "category_name": "个护",
+        "product_name": "香氛机",
+        "product_i": "11115",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4c4f48053b0b2a50e05d9b52f1e6c46d.png",
+        "category_name": "个护",
+        "product_name": "毛巾浴巾",
+        "product_i": "10342",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5667f12d69413c8be5349752c05c41ac.png",
+        "category_name": "个护",
+        "product_name": "纸巾",
+        "product_i": "10970",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9aa4dc6db6d48944604e2e55eb8b080f.png",
+        "category_name": "个护",
+        "product_name": "手动牙刷",
+        "product_i": "6443",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a8e84eee3f92521737671586c63baf9b.png",
+        "category_name": "个护",
+        "product_name": "冲牙器",
+        "product_i": "11416",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/293552cf355fb194fc5eebe5f6c02a30.png",
+        "category_name": "个护",
+        "product_name": "洗衣凝珠",
+        "product_i": "11104",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/bf1de04a01237820d7e09255588c3525.png",
+        "category_name": "个护",
+        "product_name": "洗洁精机",
+        "product_i": "11010",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9d5dde0ef81b0580f35a598e6a7e0f12.png",
+        "category_name": "健康",
+        "product_name": "体脂秤",
+        "product_i": "9686",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/dfbe41b342875d08208c3e39aaca8d95.png",
+        "category_name": "健康",
+        "product_name": "电子体温计",
+        "product_i": "11534",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/05c40e33d4224898ca1d82003f10dd1e.png",
+        "category_name": "健康",
+        "product_name": "体重秤",
+        "product_i": "9674",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1120ad1ac87fda1bc6080f5a08663717.png",
+        "category_name": "健康",
+        "product_name": "走步机",
+        "product_i": "2191600013",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/22413d0585a91288d26fd6dd05208617.png",
+        "category_name": "健康",
+        "product_name": "健身车",
+        "product_i": "2193900004",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/121b58a1819023c8fa9bb82920ceadf1.png",
+        "category_name": "健康",
+        "product_name": "按摩器",
+        "product_i": "9616",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c2b8f34f59af3dc750fe721064e12f53.png",
+        "category_name": "健康",
+        "product_name": "眼罩",
+        "product_i": "10963",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6252f1332861e5c271da84affd0d3372.png",
+        "category_name": "健康",
+        "product_name": "指甲刀",
+        "product_i": "11199",
+        "rid": 876
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7e08ef7ae29c00b7cb4a85ea035cdd56.png",
+        "category_name": "音箱",
+        "product_name": "户外蓝牙音箱",
+        "product_i": "10877",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2e5f76bdf1ce59b3a26b02457d48f5f0.png",
+        "category_name": "音箱",
+        "product_name": "小爱音箱",
+        "product_i": "6334",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/25df4ca88e5c65d76d63d530fe727965.png",
+        "category_name": "音箱",
+        "product_name": "蓝牙音箱",
+        "product_i": "11570",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2233583ee0966ddc2b49e3ffcdcb4077.png",
+        "category_name": "耳机",
+        "product_name": "蓝牙耳机",
+        "product_i": "10859",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/bec684e417c2ebd5ecd42c47c965268b.png",
+        "category_name": "耳机",
+        "product_name": "线控耳机",
+        "product_i": "8811",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/dce808e605f0ceafc0fab470cd6ebd87.png",
+        "category_name": "电子教育",
+        "product_name": "翻译机",
+        "product_i": "11312",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fd9c228b51e24c5b5c5e791b13c464e2.png",
+        "category_name": "电子教育",
+        "product_name": "电纸书",
+        "product_i": "11299",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/79d749fa21b2ec5867a31acc8ffd71e3.png",
+        "category_name": "电子教育",
+        "product_name": "小爱老师",
+        "product_i": "10000159",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8070925c6ba4d476392499454b973ff8.png",
+        "category_name": "手机配件",
+        "product_name": "移动电源",
+        "product_i": "10893",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/901c89ad5e92c6408980decd7a79b739.png",
+        "category_name": "手机配件",
+        "product_name": "无线充",
+        "product_i": "10860",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ce7aaeec82e51a44790959295183f669.png",
+        "category_name": "手机配件",
+        "product_name": "充电器",
+        "product_i": "11543",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3eff7dc0127061c13b9cc57d2bf112a1.png",
+        "category_name": "手机配件",
+        "product_name": "数据线",
+        "product_i": "9451",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c71af618288a23c03873a86fca2edaac.png",
+        "category_name": "手机配件",
+        "product_name": "自拍杆",
+        "product_i": "5051",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/58c5834d1907b73448901cc3ca29a12b.png",
+        "category_name": "手机配件",
+        "product_name": "保护壳",
+        "product_i": "11311",
+        "rid": 464
+    },
+    {
+        "img_url": "https://i1.mifile.cn/v1/a1/T1XKE_B_hT1R4cSCrK.png",
+        "category_name": "手机配件",
+        "product_name": "贴膜",
+        "product_i": "10172",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/22cd46c85db0713a9f9e36e85034ed59.png",
+        "category_name": "手机配件",
+        "product_name": "平板配件",
+        "product_i": "8711",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d60973b41d6e67888d01aa06b921f9c6.png",
+        "category_name": "手机配件",
+        "product_name": "柔光灯",
+        "product_i": "10176",
+        "rid": 464
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/95cb147bb006db736a9de680a7e2ba96.png",
+        "category_name": "箱包",
+        "product_name": "旅行箱",
+        "product_i": "9560",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9260e90124eb9cd1543ea1782bd4ce16.png",
+        "category_name": "箱包",
+        "product_name": "小背包",
+        "product_i": "8621",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4b0dbb68eab94a3f0aa60859477b1963.png",
+        "category_name": "箱包",
+        "product_name": "双肩包",
+        "product_i": "11036",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8205228a7073747f4fa50c26c187e610.png",
+        "category_name": "箱包",
+        "product_name": "胸包",
+        "product_i": "3460",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/16f595f61a6e756125524efb7b0447b2.png",
+        "category_name": "箱包",
+        "product_name": "透明包",
+        "product_i": "10159",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fa776cb286bebf9e01c177dd1ca79af4.png",
+        "category_name": "箱包",
+        "product_name": "儿童书包",
+        "product_i": "9186",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2f36a590e74adfb434d7e181ffe8e068.png",
+        "category_name": "儿童用品",
+        "product_name": "儿童手表",
+        "product_i": "11479",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8e6408cf86fbcc9f222c24035fe6a667.png",
+        "category_name": "儿童用品",
+        "product_name": "早教启智",
+        "product_i": "3807",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9e43be06b68ef2a4827be4014112f3e9.png",
+        "category_name": "儿童用品",
+        "product_name": "点读笔",
+        "product_i": "9834",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2906364c1488da49c1bbf606bb449353.png",
+        "category_name": "儿童用品",
+        "product_name": "智能魔方",
+        "product_i": "11051",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e94af738e1517ff027aaa8a59984bd1b.png",
+        "category_name": "儿童用品",
+        "product_name": "米兔",
+        "product_i": "11388",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fb60442693110687703e565df17f1da7.png",
+        "category_name": "儿童用品",
+        "product_name": "益智积木",
+        "product_i": "9805",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4317395c91e84396c2130887f8ea6e1e.png",
+        "category_name": "儿童用品",
+        "product_name": "儿童滑板车",
+        "product_i": "8107",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d5bc0835733ef686b7913e20b97ee02c.png",
+        "category_name": "儿童用品",
+        "product_name": "理发器",
+        "product_i": "9315",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/10281aa235b2a2068f7d6b3544603fdf.png",
+        "category_name": "儿童用品",
+        "product_name": "儿童保温杯",
+        "product_i": "9317",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fee6e5b121fa126d83965e3d72fa9ae0.png",
+        "category_name": "儿童用品",
+        "product_name": "折叠婴儿推车",
+        "product_i": "9029",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fa776cb286bebf9e01c177dd1ca79af4.png",
+        "category_name": "儿童用品",
+        "product_name": "儿童书包",
+        "product_i": "9186",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a27cccc02ebc33e76ecf71b49a3e7d3a.png",
+        "category_name": "儿童用品",
+        "product_name": "液晶小黑板",
+        "product_i": "10550",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/153260463288690b09a61006c134671a.png",
+        "category_name": "儿童用品",
+        "product_name": "RedmiKino",
+        "product_i": "11396",
+        "rid": 466
+    },
+    {
+        "img_url": "https://i8.mifile.cn/b2c-mimall-media/1454d4d897d954649c051d6628021455.png",
+        "category_name": "床品家具",
+        "product_name": "床垫",
+        "product_i": "6512",
+        "rid": 466
+    },
+    {
+        "img_url": "https://i8.mifile.cn/b2c-mimall-media/1c27d0d59d56aa38b8518cbf302de0cf.png",
+        "category_name": "床品家具",
+        "product_name": "枕头",
+        "product_i": "11302",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f1ce4ebfe6069e37ef8f6c042d28a37c.png",
+        "category_name": "床品家具",
+        "product_name": "沙发",
+        "product_i": "11304",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6150eec27e56bed1979d5481b009b7f8.png",
+        "category_name": "家居日用",
+        "product_name": "垃圾袋",
+        "product_i": "9938",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/de4649db49d8384bb300a362361b6048.png",
+        "category_name": "家居日用",
+        "product_name": "水槽滤网",
+        "product_i": "11390",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/27e9c7dc467621b80fbc150782720d00.png",
+        "category_name": "家居日用",
+        "product_name": "插线板 ",
+        "product_i": "7805",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c1925a6480c848720209285da334333e.png",
+        "category_name": "家居日用",
+        "product_name": "转换器",
+        "product_i": "10817",
+        "rid": 466
+    },
+    {
+        "img_url": "https://i1.mifile.cn/v1/a1/T13LVjBTdT1R4cSCrK.png",
+        "category_name": "家居日用",
+        "product_name": "电池",
+        "product_i": "3016",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/77b646ee29ccca33bf28676e1617c50a.png",
+        "category_name": "家居日用",
+        "product_name": "驱蚊器",
+        "product_i": "9736",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/56cb45ae186ab89577429aeb6213c010.png",
+        "category_name": "家居日用",
+        "product_name": "雨伞",
+        "product_i": "6124",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f09256070a4691730389cf97daec9295.png",
+        "category_name": "家居日用",
+        "product_name": "便携设备",
+        "product_i": "4053",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/62b9a9abc081949cb10e09337a412e50.png",
+        "category_name": "家居日用",
+        "product_name": "螺丝刀",
+        "product_i": "9466",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/855164f013ebca13f0b4f00c1c026af2.png",
+        "category_name": "家居日用",
+        "product_name": "保温杯",
+        "product_i": "10480",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c7380c3c73e87135e795686f8d2e02ff.png",
+        "category_name": "家居日用",
+        "product_name": "冰格",
+        "product_i": "9991",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8cf24d9705c21a339e23820c7117e7df.png",
+        "category_name": "家居日用",
+        "product_name": "手电筒",
+        "product_i": "6271",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f6bdc0c0b509799bc2bf594975aba201.png",
+        "category_name": "家居日用",
+        "product_name": "零食坚果",
+        "product_i": "7979",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3474143ad9b881aeff69f5888b49400c.png",
+        "category_name": "家居日用",
+        "product_name": "签字笔",
+        "product_i": "9836",
+        "rid": 466
+    },
+    {
+        "img_url": "https://i8.mifile.cn/b2c-mimall-media/8d7bc93cb3361547604fd053d4d54b14.png",
+        "category_name": "家居日用",
+        "product_name": "尤克里里",
+        "product_i": "7716",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6073eb35ae575ed717a6ce4f03727399.png",
+        "category_name": "家居日用",
+        "product_name": "红包",
+        "product_i": "9124",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8a207fb82a5069cdbbb6f019532f5d6e.png",
+        "category_name": "家居日用",
+        "product_name": "简约记事本",
+        "product_i": "10490",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a27cccc02ebc33e76ecf71b49a3e7d3a.png",
+        "category_name": "家居日用",
+        "product_name": "液晶小黑板",
+        "product_i": "10550",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a8eba1e2d75beba2daad2678cf0718bb.png",
+        "category_name": "鞋服配饰",
+        "product_name": "眼镜",
+        "product_i": "9731",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8c7350c2d34a2c38db776ea18dd1d67b.png",
+        "category_name": "鞋服配饰",
+        "product_name": "饰品",
+        "product_i": "9169",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/81969e3bcb8637e528f835edf47c9ff3.png",
+        "category_name": "鞋服配饰",
+        "product_name": "运动鞋",
+        "product_i": "10578",
+        "rid": 466
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/529619e99f2f183523c0c13fd5d97046.png",
+        "category_name": "有品精选",
+        "product_name": "抓绒衣",
+        "product_i": "11063",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5619447d595b13bd4c90054d1d0cea0d.png",
+        "category_name": "有品精选",
+        "product_name": "随手吸尘器",
+        "product_i": "10982",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/57fe12a74d7a8006d4cb2f6aeb740725.png",
+        "category_name": "有品精选",
+        "product_name": "测距仪",
+        "product_i": "10988",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8df83d46eee6288733814f1875c8b6e8.png",
+        "category_name": "有品精选",
+        "product_name": "喷水拖把",
+        "product_i": "10983",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e5a62920d22090cc3d775d490c2099f4.png",
+        "category_name": "有品精选",
+        "product_name": "录音笔",
+        "product_i": "10996",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4b4ec4b8ed45e3ef06706ea84d47e9d9.png",
+        "category_name": "有品精选",
+        "product_name": "黑头仪",
+        "product_i": "10989",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b7f3ac0cb8b15834692b1d10af134c33.png",
+        "category_name": "有品精选",
+        "product_name": "颈椎按摩器",
+        "product_i": "10999",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/18199b743675af27f94272688d614d81.png",
+        "category_name": "有品精选",
+        "product_name": "鼻毛修剪器",
+        "product_i": "10985",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3271f785ac2490688aa2abe063b3819b.png",
+        "category_name": "有品精选",
+        "product_name": "智能筷筒",
+        "product_i": "10994",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d9d92732b59ac58f03deaa849ac499c9.png",
+        "category_name": "有品精选",
+        "product_name": "挂烫机",
+        "product_i": "10991",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ec8abbb62a246f63d66836a159fc122e.png",
+        "category_name": "有品精选",
+        "product_name": "智能扫描仪",
+        "product_i": "11261",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e53cca0d432d825898b98c078d13fd9f.png",
+        "category_name": "有品精选",
+        "product_name": "清洗机",
+        "product_i": "11260",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1f4ad52b55b97f793cce78b18df252be.png",
+        "category_name": "有品精选",
+        "product_name": "除湿器",
+        "product_i": "11278",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f28e8936ec4a1bac9cfcf81213578bea.png",
+        "category_name": "有品精选",
+        "product_name": "洗鼻器",
+        "product_i": "11257",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2508d36ab9db0dd47bdbd75ab70501df.png",
+        "category_name": "有品精选",
+        "product_name": "灭菌笔",
+        "product_i": "11230",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a1ecd7ed634ce87b61bf37fe6275d835.png",
+        "category_name": "有品精选",
+        "product_name": "烘干机",
+        "product_i": "11128",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4eb08857a2a111f5828b4c93c74c65b4.png",
+        "category_name": "有品精选",
+        "product_name": "保温杯",
+        "product_i": "10993",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/27a7192e91262f69d728dc2de2e86e1b.png",
+        "category_name": "有品精选",
+        "product_name": "四件套",
+        "product_i": "11049",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/79a6477b245f78846799c3a6a33f555e.png",
+        "category_name": "有品精选",
+        "product_name": "真空棒",
+        "product_i": "11259",
+        "rid": 1197
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a4ddea02ff661e2da5e77a99ae497614.jpg",
+        "category_name": "有品精选",
+        "product_name": "智能艾灸",
+        "product_i": "11040",
+        "rid": 1197
+    }
+]
